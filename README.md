@@ -1,5 +1,5 @@
 # Web-Scraping-using-Python
-A Jupyter notebook to scrape Wikipedia webpages using Python to create a dataset.
+A Jupyter notebook to scrape Wikipedia webpages using Python (Beautiful Soup) to create a dataset.
 
 The complete project is detailed as a two part series:
 1. [Part 1](https://towardsdatascience.com/dataset-creation-and-cleaning-web-scraping-using-python-part-1-33afbf360b6b): Describes how web scraping can be used to fetch data from a website.
